@@ -1,3 +1,18 @@
-.les-top{
-    margin-top: 20px;
+.test{ 
+    height: 300px;
+    width: 300px;
+    border: 1px solid red;
+    background-color: rgb(194, 125, 125);
+    margin: 100px auto;    
+}
+.reg{
+    width: 120px;
+    height: 25px;
+    border: 1px solid seagreen;
+    display: inline-block;
+}
+
+#sign{
+    margin-left: 30px;
+    background-color: seagreen;
 }
